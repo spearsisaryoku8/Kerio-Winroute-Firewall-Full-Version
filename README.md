@@ -231,3 +231,6 @@ This repository serves as the official landing page for Kerio WinRoute Firewall.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Kerio WinRoute Firewall today!**
+
+---
+**Last updated:** 2026-09-12 13:48:16 UTC
