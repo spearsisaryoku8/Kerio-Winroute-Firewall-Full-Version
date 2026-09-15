@@ -233,4 +233,4 @@ This repository serves as the official landing page for Kerio WinRoute Firewall.
 **Get the most recent version of Kerio WinRoute Firewall today!**
 
 ---
-**Last updated:** 2026-09-15 08:08:18 UTC
+**Last updated:** 2026-09-15 13:57:42 UTC
